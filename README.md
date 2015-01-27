@@ -8,3 +8,5 @@ This is a boilerplate for quickly creating MEAN stack application using
 * Mongodb
 * Angular
 * Bootstrap
+
+Other features include authentification with social media like twitter, facebook, and Google
