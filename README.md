@@ -10,3 +10,5 @@ This is a boilerplate for quickly creating MEAN stack application using
 * Bootstrap
 
 Other features include authentification with social media like twitter, facebook, and Google
+
+Deployed on [OpenShift](https://meanstarter-diokey.rhcloud.com/)
