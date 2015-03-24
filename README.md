@@ -13,7 +13,7 @@ Other features include authentification with social media like twitter, facebook
 
 Deployed on [OpenShift](https://meanstarter-diokey.rhcloud.com/)
 
-# Contributiong
+# Contributing
 
 1. Fork it!
 2. Create your branch: git checkout -b my-new-branch
